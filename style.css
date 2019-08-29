@@ -7,6 +7,7 @@ header{
   /* padding: 10px;	/* ヘッダー内側の余白を指定する(上下左右) */
   background-color: #000;
   background-size: auto;
+  margin: 0 0 10px 0;
 }
 
 .menu-box{
@@ -15,7 +16,7 @@ header{
 
 .menu-box a {
 display:block;
-/* margin:2px; */
+margin:0 2px 0 0;
 padding:5px;
 font-size:20px;
 background-color:#808080;
