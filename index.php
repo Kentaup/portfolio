@@ -6,14 +6,16 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>MyPortfolio</title>
   </head>
-  <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
+
   <body>
+    <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
     <div class="back">
         <div class="title">
           <p>MyPortfolio</p>
         </div>
         <p>content</p>
     </div>
+    <footer><?php include(dirname(__FILE__).'/footer.php'); ?></footer>
   </body>
-  <footer><?php include(dirname(__FILE__).'/footer.php'); ?></footer>
+
 </html>
