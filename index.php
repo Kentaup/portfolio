@@ -11,14 +11,11 @@
   </header>
   <body>
     <div class="content-bg">
-      <div class="content"></div>
-
+      <div class="content">
         <div class="title">
           <p>MyPortfolio</p>
         </div>
-
-          <p>content</p>
-
+        <p>content</p>
       </div>
     </div>
 
