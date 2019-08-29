@@ -209,7 +209,7 @@ html {
 .submenu-link:link,
 .submenu-link:visited,
 .submenu-link:active {
-    color: #808080;
+    color: red;
     padding: 10px 20px;
 }
 
