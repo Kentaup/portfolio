@@ -28,7 +28,7 @@ text-decoration:none;
   color: #fff;
 }
 
-.content::after{
+.content::before{
   /* 透過した黒を上から重ねるイメージ */
   background-color: rgba(0,0,0,0.4);
   position: absolute;
@@ -53,6 +53,7 @@ text-decoration:none;
   font-family: Impact;
   font-size: 40px;
   font-style: italic;
+  color: #fff;
 }
 
 
@@ -64,16 +65,11 @@ text-decoration:none;
   margin: 45px 0 0 0;
   height:100%;
 }
-.back::before{
-  /* 透過した黒を上から重ねるイメージ */
+/* .back::before{
   background-color: rgba(0,0,0,0.4);
   position: absolute;
-  /* top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0; */
   content: ' ';
-}
+} */
 
 footer{
   /* position: relative;
