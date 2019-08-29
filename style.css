@@ -3,7 +3,7 @@ header{
   top: 0;	/* 上部から配置の基準位置を決める */
   left: 0;	/* 左から配置の基準位置を決める */
   width: 100%;	/* ヘッダーの横幅を指定する */
-  height: 45px;	/* ヘッダーの高さを指定する */
+  height: 60px;	/* ヘッダーの高さを指定する */
   /* padding: 10px;	/* ヘッダー内側の余白を指定する(上下左右) */
   background-color: #000;
   background-size: auto;
@@ -16,7 +16,7 @@ header{
 .menu-box a {
 display:block;
 /* margin:2px; */
-padding:10px;
+padding:5px;
 font-size:20px;
 background-color:#808080;
 color:#000;
@@ -73,13 +73,13 @@ footer{
   background: url('images/top_bg.jpg') no-repeat center;
   background-size: cover;
   /* position: relative; */
+  margin: 10px 0 0 0;
   height:100%;
   color: #fff;
 }
 .back::before{
   /* 透過した黒を上から重ねるイメージ */
   background-color: rgba(0,0,0,0.4);
-  /* 自由に位置指定 */
   position: absolute;
   /* top: 0;
   right: 0;
