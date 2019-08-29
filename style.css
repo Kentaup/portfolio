@@ -14,7 +14,7 @@ footer{
   position: absolute;
   bottom: 0;
   left: 0;
-  padding: 10px;	/* ヘッダー内側の余白を指定する(上下左右) */
+  /* padding: 10px;	*/
   color: #000000;	/* ヘッダーのフォントの色を指定する */
   background-color: #808080;
   background-size: auto;
