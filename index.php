@@ -13,7 +13,30 @@
         <div class="title">
           <p>MyPortfolio</p>
         </div>
-        <p>content</p>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
+        <h1>content</h1><br>
     </div>
     <footer><?php include(dirname(__FILE__).'/footer.php'); ?></footer>
   </body>
