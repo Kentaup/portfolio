@@ -7,7 +7,8 @@
     <title>MyPortfolio</title>
 
   </head>
-    <?php include(dirname(__FILE__).'/header.php'); ?>
+  <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
+
   <body>
     <div class="content-bg">
       <div class="content">
