@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 
-    <tr>
+    <!-- <tr>
       <th>MENU</th>
       <th ><a href="" class="mgl">HOME</a></th>
       &emsp;
       <th ><a href="creation.php" class="mgl">MyCreation</a></th>
       &emsp;
       <th><a href="profile.php">MyProfile</a></th>
-    </tr>
+    </tr> -->
+
+    <div class="menu-box">
+      <a href=" " class="mgl">HOME</a>
+      <a href="creation.php" class="mgl">MyCreation</a>
+      <a href="profile.php">MyProfile</a>
+    </div>
