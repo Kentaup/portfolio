@@ -2,6 +2,7 @@
 <html lang="ja" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <script type="text/javascript" src="base.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>MyPortfolio</title>
 
