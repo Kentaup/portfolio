@@ -1,10 +1,22 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="ja" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <!-- <script type="text/javascript" src="sample.js"></script> -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>MyProfile</title>
   </head>
+
   <body>
-    <h1>MyProfile</h1>
+    <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
+    <div class="back">
+        <div class="title">
+          <p>MyProfile</p>
+        </div>
+        <h1>森健太</h1><br>
+
+    </div>
+    <footer><?php include(dirname(__FILE__).'/footer.php'); ?></footer>
   </body>
+
 </html>
