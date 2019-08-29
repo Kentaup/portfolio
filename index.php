@@ -14,7 +14,7 @@
           <p>MyPortfolio</p>
         </div>
         <div class="content">
-          <a href="profile.php"><img src="images/icon_profile" alt=""></a>
+          <a href="profile.php"><img src="images/icon_profile.png" alt=""></a>
           <p>MyProfileですよ．</p>
         </div>
         <h1>content</h1><br>
