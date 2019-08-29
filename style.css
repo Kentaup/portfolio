@@ -12,10 +12,12 @@ header{
 
 .content-bg{
   width: 100%;
-  height: auto;
-  background-image: url(images/top_bg.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
+  height: 0;
+  background-size: contain;
+  background: url('images/top_bg.jpg') 0 0 no-repeat;
+  /* 表示画像の高さ ÷ 表示画像の幅 × 100 */
+  /* 667/1000*100 */
+  padding-top: 66.7%;
 }
 .content{
   width: 100%;
