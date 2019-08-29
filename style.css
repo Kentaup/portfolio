@@ -37,6 +37,7 @@ text-decoration:none;
   bottom: 0;
   left: 0; */
   content: ' ';
+  margin: 20px
 }
 
 .content img{
