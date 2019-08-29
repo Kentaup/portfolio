@@ -49,11 +49,11 @@ text-decoration:none;
 }
 
 .title{
-  padding: 5px;	/* ヘッダー内側の余白を指定する(上下左右) */
+  padding: 5px;
+  color: #fff;
   font-family: Impact;
   font-size: 40px;
   font-style: italic;
-  color: #fff;
 }
 
 
