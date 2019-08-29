@@ -11,6 +11,6 @@
 
     <div class="menu-box">
       <a href="index.php">HOME</a>
-      <a href="creation.php">MyCreation</a>
-      <a href="profile.php">MyProfile</a>
+      <a href="profile.php">Profile</a>
+      <a href="works.php">Works</a>
     </div>
