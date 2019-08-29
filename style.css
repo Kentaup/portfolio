@@ -28,7 +28,7 @@ text-decoration:none;
   color: #fff;
 }
 
-.content::before{
+.content::after{
   /* 透過した黒を上から重ねるイメージ */
   background-color: rgba(0,0,0,0.4);
   position: absolute;
