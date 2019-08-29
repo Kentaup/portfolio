@@ -11,7 +11,7 @@ header{
 }
 
 footer{
-  position: absolute;
+  position: relative;
   bottom: 10px;
   left: 0;
   /* padding: 10px;	*/
