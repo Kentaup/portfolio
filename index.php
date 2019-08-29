@@ -2,13 +2,11 @@
 <html lang="ja" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <script type="text/javascript" src="base.js"></script>
+    <script type="text/javascript" src="sample.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>MyPortfolio</title>
-
   </head>
   <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
-
   <body>
     <div class="content-bg">
       <div class="content">
@@ -18,7 +16,6 @@
         <p>content</p>
       </div>
     </div>
-
   </body>
   <footer><?php include(dirname(__FILE__).'/footer.php'); ?></footer>
 </html>
