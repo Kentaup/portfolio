@@ -17,9 +17,6 @@
           <a href="profile.php"><img src="images/icon_profile.png" alt=""></a>
           <p>MyProfileですよ．</p>
         </div>
-        <div class="content">
-          <h1>content</h1><br>
-        </div>
     </div>
     <footer><?php include(dirname(__FILE__).'/footer.php'); ?></footer>
   </body>
