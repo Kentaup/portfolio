@@ -11,9 +11,9 @@ header{
 }
 
 footer{
-  position: relative;
+  /* position: relative;
   bottom: 10px;
-  left: 0;
+  left: 0; */
   /* padding: 10px;	*/
   color: #000000;
   background-color: #808080;
