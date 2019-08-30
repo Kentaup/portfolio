@@ -30,11 +30,10 @@ text-decoration:none;
   background-size: cover;
   margin: 20px;
   padding: 10px;
-  width: auto;
-  height:300px;
+  height:250px;
 }
 .content img{
-  float: left;
+  margin: 0 auto 0 10px;
   height: 100px;
 }
 
