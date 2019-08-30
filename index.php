@@ -16,7 +16,8 @@
         <div class="content-outer">
           <div class="content">
             <a href="profile.php"><img class="icon" src="images/icon_profile.png" alt=""></a>
-            <p>MyProfileですよ．</p>
+            <h1>Profile</h1>
+            <h3>森 健太   Mori Kenta</h3>
           </div>
         </div>
     </div>

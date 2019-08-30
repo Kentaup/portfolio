@@ -25,10 +25,9 @@ text-decoration:none;
 }
 
 .content-outer{
-  background-color: rgba(0,0,0,0.4);
+  background-color: rgba(0,0,0,0.6);
   /* background-size: cover; */
-  margin: 20px;
-  height:250px;
+  height:150px;
   padding: 10px;
 }
 .content{
@@ -61,15 +60,8 @@ text-decoration:none;
   /* 画面いっぱいに背景画像を貼り付ける */
   background: url('images/top_bg.jpg') no-repeat center;
   background-size: cover;
-  /* position: relative; */
-  margin: 45px 0 0 0;
   height:100%;
 }
-/* .back::before{
-  background-color: rgba(0,0,0,0.4);
-  position: absolute;
-  content: ' ';
-} */
 
 footer{
   /* position: relative;
