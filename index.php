@@ -20,5 +20,4 @@
     </div>
     <footer><?php include(dirname(__FILE__).'/footer.php'); ?></footer>
   </body>
-
 </html>

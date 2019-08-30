@@ -31,6 +31,8 @@ text-decoration:none;
 }
 .content img{
   float: left;
+  background-color: rgba(0,0,0,0.4);
+  padding: 10px;
 }
 
 .mgl{
