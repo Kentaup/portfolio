@@ -15,7 +15,7 @@
         </div>
         <div class="content-outer">
           <div class="content">
-            <a class="icon" href="profile.php"><img src="images/icon_profile.png" height="100px" width="100px" alt=""></a>
+            <a href="profile.php"><img class="icon" src="images/icon_profile.png" alt=""></a>
             <p>MyProfileですよ．</p>
           </div>
         </div>

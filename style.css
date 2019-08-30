@@ -36,8 +36,9 @@ text-decoration:none;
 }
 .content .icon{
   display:block;
-  position: absolute;
+  height: 100px;
   float: left;
+  position: relative;
   height: 100px;
   top:0;
   bottom:0;
