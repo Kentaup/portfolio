@@ -11,15 +11,24 @@
     <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
     <div class="back">
         <div class="title">
-          <p>MyPortfolio</p>
+          <p>Kenta Mori Portfolio</p>
         </div>
         <div class="content-outer">
           <div class="content">
-            <a href="profile.php"><img class="icon" src="images/icon_profile.png" alt=""></a>
+            <img class="icon" src="images/icon_profile.png" alt="">
             <h1>Profile</h1>
-            <h3>森 健太   Mori Kenta</h3>
+            <h3>森 健太 &ensp; Mori Kenta</h3>
+            <h3>工学院大学 情報学部 コンピュータ科学科</h3>
           </div>
         </div>
+        <div class="content-outer">
+          <div class="content">
+            <img class="icon" src="images/icon_works.png" alt="">
+            <h1>Works</h1>
+            <h3>myApp</h3>
+          </div>
+        </div>
+
     </div>
     <footer><?php include(dirname(__FILE__).'/footer.php'); ?></footer>
   </body>
