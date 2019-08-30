@@ -24,25 +24,26 @@ text-align:center;
 text-decoration:none;
 }
 
-.content{
-  color: #fff;
+.content-outer{
   background-color: rgba(0,0,0,0.4);
   /* background-size: cover; */
   margin: 20px;
   height:250px;
   padding: 10px;
-
+}
+.content{
+  color: #fff;
 }
 .content img{
+  display:block;
   position: absolute;
   float: left;
-  top: 50%;
-  transform: translateY(-50%);
-  -webkit- transform: translateY(-50%);
-  margin: 0 auto 0 10px;
   height: 100px;
-
-
+  top:0;
+  bottom:0;
+  right:0;
+  left:0;
+  margin:auto;
 }
 
 .mgl{
