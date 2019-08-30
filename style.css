@@ -27,7 +27,10 @@ text-decoration:none;
 .content{
   color: #fff;
   background-color: rgba(0,0,0,0.4);
-  margin: 20px
+  margin: 20px;
+  padding: 10px;
+  width: auto;
+  height:180px;
 }
 .content img{
   float: left;
