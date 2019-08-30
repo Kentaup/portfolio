@@ -25,9 +25,9 @@ text-decoration:none;
 }
 
 .content-outer{
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0.7);
   /* background-size: cover; */
-  height:150px;
+  height:250px;
   padding: 10px;
 }
 .content{
@@ -39,7 +39,6 @@ text-decoration:none;
   float: left;
   position: relative;
   height: 100px;
-  top:50px;
   margin:auto;
 }
 
