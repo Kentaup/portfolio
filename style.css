@@ -34,6 +34,7 @@ text-decoration:none;
 
 }
 .content img{
+  float: left;
   margin: 0 auto 0 10px;
   height: 100px;
 }
