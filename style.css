@@ -10,6 +10,10 @@ header{
   margin: 0 0 10px 0;
 }
 
+footer img{
+  display: block;
+}
+
 .menu-box{
   display: flex;
 }
@@ -29,6 +33,7 @@ text-decoration:none;
   /* background-size: cover; */
   height:250px;
   padding: 10px;
+  margin: 0 0 10px 0;
 }
 .content{
   color: #fff;
