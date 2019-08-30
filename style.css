@@ -34,7 +34,7 @@ text-decoration:none;
 .content{
   color: #fff;
 }
-.content img{
+.content .icon{
   display:block;
   position: absolute;
   float: left;
