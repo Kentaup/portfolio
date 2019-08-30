@@ -34,7 +34,9 @@ text-decoration:none;
 
 }
 .content img{
+  display: table-cell;
   float: left;
+  vertical-align: middle;
   margin: 0 auto 0 10px;
   height: 100px;
 }
