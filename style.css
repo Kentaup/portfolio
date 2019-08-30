@@ -25,6 +25,7 @@ text-decoration:none;
 }
 
 .content{
+  display: table;
   color: #fff;
   background-color: rgba(0,0,0,0.4);
   /* background-size: cover; */
