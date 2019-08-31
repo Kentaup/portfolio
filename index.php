@@ -8,8 +8,8 @@
   </head>
 
   <body>
-    <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
     <div class="link-sp" id="top"></div>
+    <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
     <div class="back">
         <div class="title">
           <p>Kenta Mori Portfolio</p>
