@@ -20,6 +20,10 @@ footer img{
   float: right;
 }
 
+.link-sp{
+  height: 3px;
+}
+
 .menu-box{
   display: flex;
 }
