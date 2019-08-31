@@ -17,6 +17,7 @@ footer{
 
 footer img{
   display: table-cell;
+  float: right;
 }
 
 .menu-box{
