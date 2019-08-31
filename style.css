@@ -10,9 +10,13 @@ header{
   margin: 0 0 10px 0;
 }
 
+footer{
+  display: table;
+  height: 100px;
+}
+
 footer img{
-  display: block;
-  
+  display: table-cell;
 }
 
 .menu-box{
