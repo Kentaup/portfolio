@@ -23,13 +23,14 @@
             <h3>工学院大学 情報学部 コンピュータ科学科</h3>
           </div>
         </div>
-        <div class="link-sp" id="works"></div>
+        <div class="link-sp" id="works">
         <div class="content-outer">
           <div class="content" >
             <img class="icon" src="images/icon_works.png" alt="">
             <h1>Works</h1>
             <h3>myApp</h3>
           </div>
+        </div>
         </div>
 
     </div>
