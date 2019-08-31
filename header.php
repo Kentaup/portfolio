@@ -13,4 +13,5 @@
       <a href="#top">TOP</a>
       <a href="#profile">Profile</a>
       <a href="#works">Works</a>
+      <a href="#skills">Skills</a>
     </div>
