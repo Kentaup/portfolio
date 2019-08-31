@@ -10,7 +10,7 @@
     </tr> -->
 
     <div class="menu-box">
-      <a href="index.php">HOME</a>
-      <a href="profile.php">Profile</a>
-      <a href="works.php">Works</a>
+      <a href="#top">TOP</a>
+      <a href="#profile">Profile</a>
+      <a href="#works">Works</a>
     </div>

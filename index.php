@@ -9,11 +9,11 @@
 
   <body>
     <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
-    <div class="back">
+    <div class="back" id="top">
         <div class="title">
           <p>Kenta Mori Portfolio</p>
         </div>
-        <div class="content-outer">
+        <div class="content-outer" id="profile" >
           <div class="content">
             <img class="icon" src="images/icon_profile.png" alt="">
             <h1>Profile</h1>
@@ -22,7 +22,7 @@
           </div>
         </div>
         <div class="content-outer">
-          <div class="content">
+          <div class="content" id="works" >
             <img class="icon" src="images/icon_works.png" alt="">
             <h1>Works</h1>
             <h3>myApp</h3>
