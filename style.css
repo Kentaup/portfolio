@@ -90,9 +90,9 @@ text-decoration:none;
   /* 画面いっぱいに背景画像を貼り付ける */
   z-index: -2;
   background: url('images/top_bg.jpg') no-repeat center;
-  background-size: cover;
-  height:100%;
   width: 100%;
+  height:auto;
+  background-size: cover;
 }
 
 .bg-c{
