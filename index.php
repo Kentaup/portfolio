@@ -10,8 +10,8 @@
   <body>
     <div class="link-sp" id="top"></div>
     <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
-    <div class="content">
-      <div class="bg"></div>
+    <div class="bg">
+      <div class="content">
         <div class="title">
           <p>Kenta Mori Portfolio</p>
         </div>
@@ -39,6 +39,7 @@
             <h1>Skills</h1>
           </div>
         </div>
+      </div>
     </div>
     <footer><?php include(dirname(__FILE__).'/footer.php'); ?></footer>
   </body>
