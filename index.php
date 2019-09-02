@@ -10,13 +10,14 @@
   <body>
     <div class="link-sp" id="top"></div>
     <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
-    <div class="back">
+    <div class="content">
+      <div class="bg"></div>
         <div class="title">
           <p>Kenta Mori Portfolio</p>
         </div>
         <div class="link-sp" id="profile"></div>
         <div class="content-outer" >
-          <div class="content">
+          <div class="content-inner">
             <img class="icon" src="images/icon_profile.png" alt="">
             <h1>Profile</h1>
             <h3>森 健太 &ensp; Mori Kenta</h3>
@@ -25,7 +26,7 @@
         </div>
         <div class="link-sp" id="works"></div>
         <div class="content-outer">
-          <div class="content" >
+          <div class="content-inner">
             <img class="icon" src="images/icon_works.png" alt="">
             <h1>Works</h1>
             <h3>myApp</h3>
@@ -33,12 +34,11 @@
         </div>
         <div class="link-sp" id="skills"></div>
         <div class="content-outer">
-          <div class="content" >
+          <div class="content-inner">
             <img class="icon" src="images/icon_works.png" alt="">
             <h1>Skills</h1>
           </div>
         </div>
-
     </div>
     <footer><?php include(dirname(__FILE__).'/footer.php'); ?></footer>
   </body>
