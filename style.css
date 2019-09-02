@@ -82,6 +82,7 @@ text-decoration:none;
 .back{
   /* 画面いっぱいに背景画像を貼り付ける */
   background: url('images/top_bg.jpg') no-repeat center;
+  opacity: 0.6;
   background-size: cover;
   height:100%;
 }
