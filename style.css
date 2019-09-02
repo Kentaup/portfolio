@@ -87,8 +87,13 @@ text-decoration:none;
 
 .bg{
   /* 画面いっぱいに背景画像を貼り付ける */
-  background-color: rgba(255,255,255,0.5);
+  z-index: -2;
   background: url('images/top_bg.jpg') no-repeat center;
   background-size: cover;
   height:100%;
+}
+
+.bg-c{
+  z-index: -1;
+  background-color: rgba(255,255,255,0.5);
 }

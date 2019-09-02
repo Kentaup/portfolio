@@ -11,32 +11,34 @@
     <div class="link-sp" id="top"></div>
     <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
     <div class="bg">
-      <div class="content">
-        <div class="title">
-          <p>Kenta Mori Portfolio</p>
-        </div>
-        <div class="link-sp" id="profile"></div>
-        <div class="content-outer" >
-          <div class="content-inner">
-            <img class="icon" src="images/icon_profile.png" alt="">
-            <h1>Profile</h1>
-            <h3>森 健太 &ensp; Mori Kenta</h3>
-            <h3>工学院大学 情報学部 コンピュータ科学科</h3>
+      <div class="bg-c">
+        <div class="content">
+          <div class="title">
+            <p>Kenta Mori Portfolio</p>
           </div>
-        </div>
-        <div class="link-sp" id="works"></div>
-        <div class="content-outer">
-          <div class="content-inner">
-            <img class="icon" src="images/icon_works.png" alt="">
-            <h1>Works</h1>
-            <h3>myApp</h3>
+          <div class="link-sp" id="profile"></div>
+          <div class="content-outer" >
+            <div class="content-inner">
+              <img class="icon" src="images/icon_profile.png" alt="">
+              <h1>Profile</h1>
+              <h3>森 健太 &ensp; Mori Kenta</h3>
+              <h3>工学院大学 情報学部 コンピュータ科学科</h3>
+            </div>
           </div>
-        </div>
-        <div class="link-sp" id="skills"></div>
-        <div class="content-outer">
-          <div class="content-inner">
-            <img class="icon" src="images/icon_works.png" alt="">
-            <h1>Skills</h1>
+          <div class="link-sp" id="works"></div>
+          <div class="content-outer">
+            <div class="content-inner">
+              <img class="icon" src="images/icon_works.png" alt="">
+              <h1>Works</h1>
+              <h3>myApp</h3>
+            </div>
+          </div>
+          <div class="link-sp" id="skills"></div>
+          <div class="content-outer">
+            <div class="content-inner">
+              <img class="icon" src="images/icon_works.png" alt="">
+              <h1>Skills</h1>
+            </div>
           </div>
         </div>
       </div>
