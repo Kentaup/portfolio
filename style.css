@@ -8,7 +8,6 @@ header{
   /* padding: 10px;	/* ヘッダー内側の余白を指定する(上下左右) */
   background-color: #000;
   background-size: auto;
-  margin: 0 0 10px 0;
 }
 
 footer{
@@ -80,6 +79,10 @@ text-decoration:none;
 .title{
   /* padding: 5px; */
   color: #fff;
+  text-shadow:1px 1px 0 #000, -1px -1px 0 #000,
+              -1px 1px 0 #000, 1px -1px 0 #000,
+              0px 1px 0 #000,  0 -1px 0 #000,
+              -1px 0 0 #000, 1px 0 0 #000;
   font-family: Impact;
   font-size: 40px;
   font-style: italic;
@@ -90,8 +93,8 @@ text-decoration:none;
   /* 画面いっぱいに背景画像を貼り付ける */
   z-index: -2;
   background: url('images/top_bg.jpg') no-repeat center;
-  width: 100%;
-  height:auto;
+  /* width: 100%;
+  height:auto; */
   background-size: cover;
 }
 
