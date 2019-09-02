@@ -10,8 +10,8 @@
   <body>
     <div class="link-sp" id="top"></div>
     <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
-    <div class="bg-c">
-      <div class="bg">
+    <div class="bg">
+      <div class="bg-c">
         <div class="content">
           <div class="title">
             <p>Kenta Mori Portfolio</p>
