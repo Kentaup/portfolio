@@ -63,7 +63,7 @@ text-decoration:none;
   /* background-size: cover; */
   height:250px;
   padding: 10px;
-  margin: 5px 20px 5px 20px;
+  margin: 0 20px 10px 20px;
 }
 .content-inner{
 
@@ -101,6 +101,7 @@ text-decoration:none;
   /* width: 100%;
   height:auto; */
   background-size: cover;
+  padding: 0 0 10px 0;
 }
 
 .bg-c{
