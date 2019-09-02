@@ -19,6 +19,10 @@ footer{
   height: 100px;
 }
 
+footer p{
+  float: left;
+}
+
 footer img{
   height: 70px;
   /* display: inline-block;
