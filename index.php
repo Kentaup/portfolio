@@ -13,9 +13,7 @@
     <div class="bg">
       <div class="bg-c">
         <div class="content">
-          <div class="title">
-            <p>Kenta Mori Portfolio</p>
-          </div>
+          <p class="title">Kenta Mori Portfolio</p>
           <div class="link-sp" id="profile"></div>
           <div class="content-outer" >
             <div class="content-inner">
