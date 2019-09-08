@@ -28,7 +28,9 @@
             <div class="content-inner">
               <img class="icon" src="images/icon_works.png" alt="">
               <h1>Works</h1>
-              <h3>myApp</h3>
+              <h3>和太鼓の会 鼓遊 ホームページ</h3>
+              <p>URL: <a href="https://koyu.herokuapp.com/">https://koyu.herokuapp.com</a> </p>
+              <p>使用技術:HTML,CSS,javascript,Bootstrap4</p>
             </div>
           </div>
           <div class="link-sp" id="skills"></div>
