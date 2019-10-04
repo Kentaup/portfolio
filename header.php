@@ -8,10 +8,10 @@
         <div class="collapse navbar-collapse justify-content-end" id=menu>
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" id="" href=""><h4>AAA</h4></a>
+              <a class="nav-link" id="" href=""><h4>TOP</h4></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="" href=""><h4>BBB</h4></a>
+              <a class="nav-link" id="" href=""><h4>成果物</h4></a>
             </li>
           </ul>
         </div>
