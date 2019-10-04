@@ -13,7 +13,7 @@
     <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
 
     <div class="containar">
-
+      
     </div>
 
     <footer><?php include(dirname(__FILE__).'/footer.php'); ?></footer>

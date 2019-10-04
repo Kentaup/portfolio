@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-    <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-hd">
+    <nav class="navbar navbar-expand-lg sticky-top navbar-dark">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu" aria-controls="navbarNav4" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
