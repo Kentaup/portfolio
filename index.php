@@ -15,8 +15,8 @@
     <div class="containar m-5">
       <h1>ポートフォリオ</h1>
       <div class="row border border-dark">
-        <h1 class="col-sm-12">プロフィール</h1>
-        <p class="break">森健太 20歳</p>
+        <h1 class="">プロフィール</h1>
+        <p class="col-sm-12">森健太 20歳</p>
         <p>工学院大学情報学部コンピュータ科学科3年  <a href="https://www.kogakuin.ac.jp/faculty/lab/info_lab145.html">高信頼ソフトウェア開発工学研究室</a> 所属</p>
         <p>経験</p>
         <ul>
