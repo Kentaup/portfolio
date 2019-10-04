@@ -28,8 +28,8 @@
         <p class="col-sm-12">趣味:和太鼓</p>
       </div>
       <div class="row border border-dark">
-        <h2>成果物</h1>
-        <p>和太鼓の会 鼓遊 ホームページ</p>
+        <h2 class="col-sm-12">成果物</h1>
+        <p class="col-sm-12">和太鼓の会 鼓遊 ホームページ</p>
       </div>
     </div>
 
