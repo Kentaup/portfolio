@@ -12,7 +12,7 @@
   <body>
     <header><?php include(dirname(__FILE__).'/header.php'); ?></header>
 
-    <div class="containar m-5">
+    <div class="containar m-3">
       <h2>ポートフォリオ</h1>
       <div class="row border border-dark">
         <h2 class="">プロフィール</h1>
