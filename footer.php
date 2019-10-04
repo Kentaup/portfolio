@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<div class="containar bg-dark">
+<div class="containar bg-dark text-white">
   <div class="row">
     <div class="col-6">
       <p>NAME : 森健太 MoriKenta<br>
