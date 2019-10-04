@@ -33,9 +33,9 @@
       <div class="row border border-dark m-3">
         <h2 class="col-sm-12">リンク</h2>
         <ul>
-          <li>GitHub : </li>
-          <li>Twitter : </li>
-          <li>facebook : </li>
+          <li><a href="https://github.com/Kentaup" target="_blank">GitHub</a></li>
+          <li><a href="https://twitter.com/moridaiko" target="_blank">Twitter</a> </li>
+          <li><a href="https://www.facebook.com/profile.php?id=100040431405771" target="_blank">facebook</a></li>
           <!-- <li>Qiita : </li> -->
         </ul>
       </div>
