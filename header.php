@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
     <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-secondary">
-      <h2>ポートフォリオ</h2>
+      <h2 class="text-white">ポートフォリオ</h2>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu" aria-controls="navbarNav4" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
