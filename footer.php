@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<div class="containar bg-dark text-white">
+<div class="containar bg-secondary text-white">
   <div class="row">
     <div class="col-6 ml-3">
       <p>NAME : 森健太 MoriKenta<br>
         UNIVERSITY : 工学院大学情報学部コンピュータ科学科 <br>
         MAIL : morikenta.se@gmail.com</p>
     </div>
-    <div class="col-6">
+    <div class="col-6 mt-3">
       <a href="https://twitter.com/moridaiko" target="_blank">
         <img src="images/icon_twitter.png" alt="">
       </a>
