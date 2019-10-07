@@ -15,8 +15,10 @@
     <div class="containar m-3">
       <div class="row border border-dark m-3">
         <h2 class="col-sm-12">プロフィール</h2>
-        <p class="col-sm-12">森健太 20歳</p>
-        <p class="col-sm-12">工学院大学情報学部コンピュータ科学科3年  <a href="https://www.kogakuin.ac.jp/faculty/lab/info_lab145.html" target="_blank">高信頼ソフトウェア開発工学研究室</a> 所属</p>
+        <p class="col-sm-12">
+          森健太 20歳<br>
+          工学院大学情報学部コンピュータ科学科3年  <a href="https://www.kogakuin.ac.jp/faculty/lab/info_lab145.html" target="_blank">高信頼ソフトウェア開発工学研究室</a> 所属
+        </p>
         <ul>
           <p class="col-sm-12">経験</p>
           <li>大学の講義でC,Javaを修得</li>
@@ -28,7 +30,11 @@
       </div>
       <div class="row border border-dark m-3">
         <h2 class="col-sm-12">成果物</h2>
-        <p class="col-sm-12">和太鼓の会 鼓遊 ホームページ</p>
+        <div class="row mb-3">
+          <h5 class="col-sm-12"><a href="https://koyu.herokuapp.com/">和太鼓の会 鼓遊 ホームページ</a></h5>
+          <p class="col-sm-12">使用技術:HTML,CSS,Bootstrap4,PHP,PostgreSQL</p>
+          <p class="col-sm-12">私の所属する和太鼓チームのホームページです。チームの広報を強化する目的で作成しました。</p>
+        </div>
       </div>
       <div class="row border border-dark m-3">
         <h2 class="col-sm-12">リンク</h2>

@@ -8,7 +8,7 @@
         MAIL : morikenta.se@gmail.com
       </p>
     </div>
-    <div class="col-6 mt-3">
+    <div class="col-6">
       <a href="https://twitter.com/moridaiko" target="_blank">
         <img src="images/icon_twitter.png" alt="">
       </a>
