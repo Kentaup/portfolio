@@ -30,7 +30,7 @@
       </div>
       <div class="row border border-dark m-3">
         <h2 class="col-sm-12">成果物</h2>
-        <div class="row mb-3">
+        <div class="row m-3">
           <h5 class="col-sm-12"><a href="https://koyu.herokuapp.com/">和太鼓の会 鼓遊 ホームページ</a></h5>
           <p class="col-sm-12">使用技術:HTML,CSS,Bootstrap4,PHP,PostgreSQL</p>
           <p class="col-sm-12">私の所属する和太鼓チームのホームページです。チームの広報を強化する目的で作成しました。</p>
