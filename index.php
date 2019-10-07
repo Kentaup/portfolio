@@ -19,8 +19,8 @@
           森健太 20歳<br>
           工学院大学情報学部コンピュータ科学科3年  <a href="https://www.kogakuin.ac.jp/faculty/lab/info_lab145.html" target="_blank">高信頼ソフトウェア開発工学研究室</a> 所属
         </p>
+        <p class="col-sm-12">経験</p>
         <ul>
-          <p class="col-sm-12">経験</p>
           <li>大学の講義でC,Javaを修得</li>
           <li>大学の委員会でHPの運営を担当(<a href="http://www.ns.kogakuin.ac.jp/~wws5018/" target="_blank">工学院大学学生団体ポータルサイトSHAiR</a>)</li>
           <li>株式会社セレスの３日間インターンにてPHPを用いたwebアプリのチーム開発を経験</li>
@@ -31,7 +31,7 @@
       <div class="row border border-dark m-3">
         <h2 class="col-sm-12">成果物</h2>
         <div class="row m-3">
-          <h5 class="col-sm-12"><a href="https://koyu.herokuapp.com/">和太鼓の会 鼓遊 ホームページ</a></h5>
+          <h5 class="col-sm-12"><a href="https://koyu.herokuapp.com/" target="_blank">和太鼓の会 鼓遊 ホームページ</a></h5>
           <p class="col-sm-12">使用技術:HTML,CSS,Bootstrap4,PHP,PostgreSQL</p>
           <p class="col-sm-12">私の所属する和太鼓チームのホームページです。チームの広報を強化する目的で作成しました。</p>
         </div>
