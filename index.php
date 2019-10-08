@@ -34,7 +34,7 @@
           <a class="col-lg-3 col-12" href="https://koyu.herokuapp.com/" target="_blank">
             <img  src="images/koyu_thumbnail.png" alt="和太鼓の会 鼓遊 ホームページ">
           </a>
-          <div class="col-lg-9 col-12">
+          <div class="col-lg-9 col-12 create">
             <h5 class="col-sm-12"><a href="https://koyu.herokuapp.com/" target="_blank">和太鼓の会 鼓遊 ホームページ</a></h5>
             <p class="col-sm-12">使用技術:HTML,CSS,Bootstrap4,PHP,PostgreSQL</p>
             <p class="col-sm-12">私の所属する和太鼓チームのホームページです。チームの広報を強化する目的で作成しました。</p>
