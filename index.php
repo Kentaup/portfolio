@@ -27,7 +27,7 @@
             (<a href="https://github.com/doctor0siki/team-c_2" target="_blank">Github</a>)
           </li>
           <li>現在Rubyを習得中</li>
-          <li>今までに経験したその他の技術:Python,kotlin,SQLite,Arduino,PlayCanvas</li>
+          <li>今までに経験したその他の技術 : Python,kotlin,SQLite,Arduino,PlayCanvas</li>
         </ul>
         <p class="col-sm-12">趣味:和太鼓</p>
       </div>
