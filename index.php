@@ -21,13 +21,12 @@
         </p>
         <p class="col-sm-12">経験</p>
         <ul>
-          <li>大学の講義でC,Javaを修得</li>
+          <li>大学の講義でC,Java,Rubyを修得</li>
           <li>大学の委員会でHPの運営を担当(<a href="http://www.ns.kogakuin.ac.jp/~wws5018/" target="_blank">工学院大学学生団体ポータルサイトSHAiR</a>)</li>
           <li>株式会社セレスの３日間インターンにてPHPを用いたwebアプリのチーム開発を経験
             (<a href="https://github.com/doctor0siki/team-c_2" target="_blank">Github</a>)
           </li>
-          <li>現在Rubyを習得中</li>
-          <li>今までに経験したその他の技術 : Python,kotlin,SQLite,Arduino,PlayCanvas</li>
+          <li>今までに経験したその他の言語・技術 : Python,Kotlin,Swift,SQLite,Arduino,PlayCanvas</li>
         </ul>
         <p class="col-sm-12">趣味:和太鼓</p>
       </div>
